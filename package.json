@@ -1,0 +1,19 @@
+{
+  "name": "playgroundapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uppercuut/NodePlayGround.git"
+  },
+  "author": "ibrahim nada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uppercuut/NodePlayGround/issues"
+  },
+  "homepage": "https://github.com/uppercuut/NodePlayGround#readme"
+}
