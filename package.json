@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/uppercuut/NodePlayGround/issues"
   },
-  "homepage": "https://github.com/uppercuut/NodePlayGround#readme"
+  "homepage": "https://github.com/uppercuut/NodePlayGround#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.7"
+  }
 }
